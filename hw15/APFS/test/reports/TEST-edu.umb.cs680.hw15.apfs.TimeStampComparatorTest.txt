@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw15.apfs.TimeStampComparatorTest
+Test: ChildrenHomeTimeComparatorTest() took 2 milli sec(s)
+Test: FilesInPicsTimeComparatorTest() took 2 milli sec(s)
+Test: FilesInCodeTimeComparatorTest() took 2 milli sec(s)
+Test: FileInHomeDirectoryTimeComparatorTest() took 2 milli sec(s)
+Test: RootDirectoryTimeComparatorTest() took 1 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 14 milli sec(s)

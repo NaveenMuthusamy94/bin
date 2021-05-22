@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw15.apfs.AlphabeticalComparatorTest
+Test: ChildrenInRootDirectoryComparatorTest() took 30 milli sec(s)
+Test: FileInPicsDirectoryComparatorTest() took 3 milli sec(s)
+Test: FileInHomeDirectoryComparatorTest() took 2 milli sec(s)
+Test: ChildrenHomeDiretoryComparatorTest() took 2 milli sec(s)
+Test: FilesInCodeDirectoryComparatorTest() took 2 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 85 milli sec(s)
